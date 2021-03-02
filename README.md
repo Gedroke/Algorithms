@@ -1,2 +1,3 @@
 # Algorithms
-Algorithms implementation repository
+Algorithms implementation repository (WIP)
+
